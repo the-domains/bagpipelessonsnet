@@ -1,4 +1,3 @@
-layout_spectrum: 0.4408460413105786
 typography_spectrum: 0.5762227952945977
 color:
   brandStrength: 0.32554429210722446
@@ -11,6 +10,11 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
-name: BagpipeLessons.Net
+layout_spectrum: 0.4408460413105786
+author:
+  name: Gary A Guth
+  email: gary@guth.us
+  url: 'https://www.bagpipelessons.net'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9943dce3-599d-47fb-adfa-05b51492f578.jpg
+name: BagpipeLessons.Net
