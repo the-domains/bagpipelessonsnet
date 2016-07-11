@@ -1,14 +1,14 @@
-layout_spectrum: 0.5077800587750971
-typography_spectrum: 0.1189819285646081
+layout_spectrum: 0.4408460413105786
+typography_spectrum: 0.5762227952945977
 color:
-  brandStrength: 0.2188981380313635
-  lightness: 0.5712771231774241
-  saturation: 0.12690436211414635
-  rhythmicContrast: 0.021551271667703986
+  brandStrength: 0.32554429210722446
+  lightness: 0.48256098246201873
+  saturation: 0.6320053646340966
+  rhythmicContrast: 0.1609831436071545
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: BagpipeLessons.Net
